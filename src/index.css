@@ -1,0 +1,35 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  display: inline-block;
+}
+ul a {
+  text-decoration: none;
+}
+article {
+  max-width: 483px;
+}
+footer {
+  background-color: #2e2e2e;
+}
+nav {
+  display: inline-block;
+  color: black;
+  text-decoration: none;
+}
+.container {
+  color: black;
+}
+header a {
+  color: black;
+}
+footer {
+  color: white;
+}
+img {
+  width: 100%;
+}
+footer img {
+  width: 5%;
+}
