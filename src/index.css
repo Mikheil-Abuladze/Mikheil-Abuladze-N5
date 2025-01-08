@@ -33,3 +33,6 @@ img {
 footer img {
   width: 5%;
 }
+article{
+  box-shadow: 1px 1px 1px 1px black;
+}
