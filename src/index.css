@@ -3,6 +3,14 @@
   padding: 0;
   box-sizing: border-box;
   display: inline-block;
+  font-family: "font2";
+}
+@font-face {
+  font-family: "font2";
+  src: url("../src/ar-archy-thin.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
 }
 ul a {
   text-decoration: none;
